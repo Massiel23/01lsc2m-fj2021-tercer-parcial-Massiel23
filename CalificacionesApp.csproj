@@ -6,4 +6,8 @@
     <RootNamespace>_01lsc2m_fj2021_tercer_parcial_Massiel23</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.6" />
+  </ItemGroup>
+
 </Project>

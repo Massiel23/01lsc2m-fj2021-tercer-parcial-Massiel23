@@ -8,5 +8,5 @@ TRABAJO FINAL
 
 ## Autores
 
-- Profesor: [Bidkar Aragón Cardenas
+- Profesor: Bidkar Aragón Cardenas
 - Alumnos: Massiel Guadalupe Lopez Lopez

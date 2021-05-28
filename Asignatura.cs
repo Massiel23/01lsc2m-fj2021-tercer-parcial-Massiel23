@@ -1,15 +1,14 @@
-using System;
-
 namespace CalificacionesApp
 {
-    class Asignatura 
+    class Asignatura
     {
-        public int Id {get; set;}
-        public int PlanDeEstudioid {get; set;}
-        public string NombreMateria {get; set;}
-        public int Horas {get; set;}
-        public int  Semestre {get; set;}
-        public int Creditos {get; set;}
-       
+        public int Id { get; set; }
+        public int PlanDeEstudioId { get; set; }
+        public PlanDeEstudio PlanDeEstudio { get; set; }
+        public string Nombre { get; set; }
+        public float Horas { get; set; }
+        public int Semestre { get; set; }
+        public int Creditos { get; set; }
+
     }
 }

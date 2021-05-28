@@ -1,12 +1,6 @@
-![Logo UAdeO](https://uadeo.mx/wp-content/uploads/2020/09/logo-UAdeO-Web-R.svg)
+## Universidad Autónoma de Occidente
+### Tercer parcial de paradigmas de programación
 
-    
-# Paradigmas de programación
+**Profe. Bidkar Aragón Cárdenas**
 
-TRABAJO FINAL
-
-
-## Autores
-
-- Profesor: Bidkar Aragón Cardenas
-- Alumnos: Massiel Guadalupe Lopez Lopez
+**Alumna: Perla Beatriz López Armenta**

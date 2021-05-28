@@ -3,4 +3,4 @@
 
 **Profe. Bidkar Aragón Cárdenas**
 
-**Alumna: Perla Beatriz López Armenta**
+**Alumna: Massiel Guadalupe Lopez Lopez**
